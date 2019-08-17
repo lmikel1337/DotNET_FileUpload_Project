@@ -1,0 +1,7 @@
+C:\Users\Illya SKvortsov\source\repos\ReadFromFile\ReadFromFile\bin\Debug\ReadFromFile.exe.config
+C:\Users\Illya SKvortsov\source\repos\ReadFromFile\ReadFromFile\bin\Debug\ReadFromFile.exe
+C:\Users\Illya SKvortsov\source\repos\ReadFromFile\ReadFromFile\bin\Debug\ReadFromFile.pdb
+C:\Users\Illya SKvortsov\source\repos\ReadFromFile\ReadFromFile\obj\Debug\ReadFromFile.csproj.CoreCompileInputs.cache
+C:\Users\Illya SKvortsov\source\repos\ReadFromFile\ReadFromFile\obj\Debug\ReadFromFile.exe
+C:\Users\Illya SKvortsov\source\repos\ReadFromFile\ReadFromFile\obj\Debug\ReadFromFile.pdb
+C:\Users\Illya SKvortsov\source\repos\ReadFromFile\ReadFromFile\obj\Debug\ReadFromFile.csprojAssemblyReference.cache
